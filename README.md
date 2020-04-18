@@ -1,2 +1,2 @@
 # cm-questions
-Interview Questions for campaign monitor
+Answers to questions from an interview

@@ -1,0 +1,26 @@
+{
+  "name": "cm-questions",
+  "version": "1.0.0",
+  "description": "Questions for an interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha src/**/**.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timtam8520/cm-questions.git"
+  },
+  "keywords": [
+    "questions"
+  ],
+  "author": "timtam8520",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timtam8520/cm-questions/issues"
+  },
+  "homepage": "https://github.com/timtam8520/cm-questions#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1"
+  }
+}
